@@ -74,7 +74,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('image1.jpg');
+  background-image: url('images/image1.jpg');
   background-size: cover;
   background-position: center;
   
@@ -275,20 +275,20 @@ input[type="text"]{
 
 .address{
     justify-content: center;
-    padding-left: 100px;
+    padding-left: 50px;
     margin-left: 80px;
     padding-top: -80px;
 }
 
 .cent{
     justify-content: center;
-    padding-left: 80px;
+    padding-left: 90px;
 }
 .title1{
       justify-content: center;
    color: #5e3c96;
    font-family: Arial, Helvetica, sans-serif;
-   padding-left: 199px;
+   padding-left: 190px;
    padding-bottom: 1px;
    padding-top: 50px;
 }
