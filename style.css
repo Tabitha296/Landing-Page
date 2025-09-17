@@ -315,6 +315,7 @@ input[type="text"]{
   color: white;
   z-index: 1000;
   display: flex;
+  margin-top: 70px;
   
 }
 
@@ -362,6 +363,11 @@ input[type="text"]{
     padding-bottom: 1px;
     background-color: black;
 
+}
+
+.lg:hover{
+    background-color: white;
+    color: #000;
 }
 
 .nav-links1{
